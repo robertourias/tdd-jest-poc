@@ -1,0 +1,23 @@
+{
+  "name": "tdd-jest-poc",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/robertourias/tdd-jest-poc.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/robertourias/tdd-jest-poc/issues"
+  },
+  "homepage": "https://github.com/robertourias/tdd-jest-poc#readme",
+  "devDependencies": {
+    "jest": "^26.6.3"
+  }
+}
