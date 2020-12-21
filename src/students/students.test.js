@@ -11,6 +11,6 @@ describe("Testes para alunos", () => {
     })
     it("Deve retornar valor dobrado quando um aluno tiver mais de cinco notas", () => {
         const notes = [1, 2, 3, 4, 5, 6, 7];
-        expect(student.sum(notes)).toEqual(64)
+        expect(student.sum(notes)).toEqual(56)
     })
 })
